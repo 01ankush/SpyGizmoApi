@@ -1,0 +1,148 @@
+[
+    {
+    "id": "ankushnoa",
+    "name": "Holder Camera",
+    "company": "FREDI HD",
+    "price": 6000000,
+    "colors": [
+    "#ff0000",
+    "#000000",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/31EOUVGzwGL.jpg",
+    "description": "FREDI HD PLUS SPY New Holder Camera with Audio & Video Recording Device Continue Recording Device",
+    "category": "holder",
+    "featured": true
+    },
+    {
+    "id": "ankushnob",
+    "name": "Voice Mini Recorder ",
+    "company": "JNKC ",
+    "price": 5000000,
+    "colors": [
+    "#000",
+    "#22D3EF"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51MEjIsLTNL._SY450_.jpg",
+    "description": "JNKC Mini A8 Hidden Voice Mini Recorder for Lectures Meetings Home Office Hidden | Remote Call Back | Audio Bug Device | Live Listening | Portable | Built-in Rechargeable Battery",
+    "category": "Recorder",
+    "shipping": true,
+    "featured": true
+    },
+    {
+    "id": "ankushnoc",
+    "name": "Spy Charger ",
+    "company": "IFITech",
+    "price": 600000,
+    "colors": [
+    "#22D3EF",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51NIFlY4adL._SY450_.jpg",
+    "description": "IFITech IFIADPTCAM 1080p USB Charger Type Hidden Camera | Home security spy camera | Support Maximum 256 Gb Memory Cards | Continuous & Motion Based Recording Option | Ideal for home/office monitoring.",
+    "category": "charger",
+    "featured": true
+    },
+    {
+    "id": "ankushnod",
+    "name": "Voice Keychain",
+    "company": "SAFETYNET",
+    "price": 1259966,
+    "colors": [
+    "#000",
+    "#000000",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51fKX6ZvaSL._SX679_.jpg",
+    "description": "SAFETYNET Spy Voice Keychain Recorder Inbuilt 32GB Memory HD 4k Voice Activated Recording Device Hidden | Spy Audio Recording Gadget for Lecture, Interview, Meeting, Car, Home",
+    "category": "Recorder",
+    "shipping": true,
+    "featured": true
+    },
+    {
+    "id": "ankushnoe",
+    "name": "Voice Recorder",
+    "company": "TECHNOVIEW ",
+    "price": 4000099,
+    "colors": [
+    "#000",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51IaA23zTRL._SX679_.jpg",
+    "description": "TECHNOVIEW Spy Mini Portable Spy Digital Hidden Audio Voice Recorder 8GB Pen Drive with HD Voice Recording in Built Microphone Mic Dictaphone Without Light for Home/Office/Car/Room.",
+    "category": "Recorder",
+    "shipping": true
+    },
+    {
+    "id": "ankushnof",
+    "name": "Magnet Camera",
+    "company": "GR8 chice",
+    "price": 42999,
+    "colors": [
+    "#000000",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71VR5hYj0GL._SX425_.jpg",
+    "description": "Great Choice High HD Focus Spy Magnet Camera Full HD Mini Spy WiFi Magnetic Live Stream Night Vision IP Wireless 1080P Audio Video Hidden Nanny Camera for Home Offices Security (MAGNETT Camera)",
+    "category": "Camera",
+    "shipping": true
+    },
+    {
+    "id": "ankushnog",
+    "name": "Camera Pen",
+    "company": "SekyuritiBijon",
+    "price": 239993,
+    "colors": [
+    "#CDD0D0",
+    "#000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61Le9gJwbNL._SY450_.jpg",
+    "description": "SekyuritiBijon ® Full HD 1080P Mini Hidden USB Camera Pen T189 Wearable Indoor Outdoor Portable Pocket Recording 32GB SD Support (Black, Not Included).",
+    "category": "pen",
+    "shipping": true
+    },
+    {
+    "id": "ankushnoh",
+    "name": "Camera Button",
+    "price": 1099999,
+    "company": "TIWCEM",
+    "colors": [
+    "#000",
+    "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71t5a7r4G7L._SX425_.jpg",
+    "description": "TIWCEM® Spy Camera Button Hidden HD Video Audio Photo Taking Recording 5.0 MP Spy Camera(Black)(Updated Model 2022)(not Include Memory Card) 04.",
+    "category": "Button",
+    "featured": true,
+    "shipping": true
+    },
+    {
+    "id": "ankushnoi",
+    "name": "Spy Pen",
+    "price": 399992,
+    "company": "M S TECH",
+    "colors": [
+    "#000000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/41n5KXQymCL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "M S TECH 4K V8 Wireless Spy Pen Hidden Camera 1080p Full HD Video and Audio Recording Spy Camera Portable Mini Slim Body Pen Camera Spy Hidden Gadget- Blue.",
+    "category": "pen",
+    "shipping": true
+    },
+    {
+    "id": "ankushnoj",
+    "name": "Plug",
+    "company": "Safety Net",
+    "price": 300099,
+    "colors": [
+    "#ff0000",
+    "#22D3EF",
+    "#000000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/41PT4ESt+bL._SX425_.jpg",
+    "description": "Safety Net Hidden Spy Camera WiFi Multi Plug - Hidden Camera with Live Feed WiFi - Indoor Hidden Security Camera - 1080P HD Hidden Nanny Cam - Motion Detection Spy Cam - with 32GB MicroSD Card.",
+    "category": "Plug",
+    "featured": true
+    }
+    
+    ]
