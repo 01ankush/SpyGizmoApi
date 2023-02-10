@@ -2,7 +2,7 @@ const express = require("express");
 const users = require('./spy.json');
 const productusers = require('./proa.json');
 const app = express();
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 const cors = require('cors');
 const corsOptions ={
     origin:'http://localhost:3000', 
